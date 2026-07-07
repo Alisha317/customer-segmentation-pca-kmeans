@@ -20,7 +20,7 @@ Customer Personality Analysis (Kaggle)
 Contains ~2,240 customer records with demographic info, purchase history across product categories, campaign acceptance, and store/web engagement data.
 
 
-**Note:** The raw dataset file is not included in this repo due to size/licensing — download it directly from the Kaggle link above and place it in the project folder as marketing_campaign.csv.
+**Note:** The raw dataset file is included in this repo you can also download it directly from the Kaggle link above.
 
 
 
