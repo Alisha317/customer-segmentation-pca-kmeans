@@ -38,10 +38,9 @@ StageTechniquePurpose1. ScaleStandardScalerNormalize features to equal weight2. 
 
 **Key Results**
 
-
-Identified [X] distinct customer segments based on income, spending, and engagement patterns.
-Achieved a silhouette score of [insert your score], indicating well-separated clusters.
-Translated clusters into personas such as High-Value Loyal Customers, Budget-Conscious Enthusiasts, and Low Engagement / At-Risk customers.
+- Evaluated K=2 through K=10 using the Elbow Method and Silhouette Score for mathematical validation.
+- Identified **2 distinct customer segments** as the optimal solution, achieving the highest silhouette score of **0.505** (indicating well-separated, cohesive clusters).
+- Translated clusters into personas such as *High-Value Loyal Customers*, *Budget-Conscious Enthusiasts*, and *Low Engagement / At-Risk* customers.
 
 
 **Repository Structure**
